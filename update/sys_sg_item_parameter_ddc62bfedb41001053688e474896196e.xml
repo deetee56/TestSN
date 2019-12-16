@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Contacts street</name>
+        <parent>d5c62bfedb41001053688e474896196d</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 09:52:46</sys_created_on>
+        <sys_id>ddc62bfedb41001053688e474896196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contacts street</sys_name>
+        <sys_package display_value="MyTest" source="x_210211_mytest">3465eb3adb41001053688e47489619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyTest">3465eb3adb41001053688e47489619bf</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ddc62bfedb41001053688e474896196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 09:52:46</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

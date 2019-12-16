@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Finding my contacts on a map</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">c5c6273adb41001053688e4748961921</icon>
+        <item_view display_value="Contacts Detail Screen Item View">41c62bfedb41001053688e474896195c</item_view>
+        <name>Contacts</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 09:52:46</sys_created_on>
+        <sys_id>01c62bfedb41001053688e474896195d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Contacts</sys_name>
+        <sys_package display_value="MyTest" source="x_210211_mytest">3465eb3adb41001053688e47489619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyTest">3465eb3adb41001053688e47489619bf</sys_scope>
+        <sys_update_name>sys_sg_form_screen_01c62bfedb41001053688e474896195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 11:07:41</sys_updated_on>
+        <table>x_210211_mytest_contacts</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=01c62bfedb41001053688e474896195d"/>
+</record_update>
